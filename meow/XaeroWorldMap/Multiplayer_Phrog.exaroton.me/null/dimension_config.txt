@@ -1,0 +1,4 @@
+confirmedMultiworld:mw$default
+MWName:mw$default:Default
+caveModeType:1
+dimensionTypeId:minecraft:overworld

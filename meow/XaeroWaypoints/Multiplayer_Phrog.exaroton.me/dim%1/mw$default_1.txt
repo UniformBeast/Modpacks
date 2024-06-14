@@ -1,0 +1,10 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:unraided:U:2952:146:-3761:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:unlooted:U:6847:140:-8172:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:unlooted:U:6473:131:-7901:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:unlooted:U:4251:93:-5061:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:gateway:G:2848:74:-4200:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:gateway:G:-99:65:-1499:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gateway:G:842:61:-1690:1:false:0:gui.xaero_default:false:0:0:false
